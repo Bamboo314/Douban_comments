@@ -1,7 +1,7 @@
 # Douban_comments
 使用python3爬取豆瓣短评——以《白鹿原》为例
 
-流程说明：
+流程说明：https://blog.csdn.net/xienan_ds_zj/article/details/84454849
 
 数据说明：     
 **昵称**    文本数据，说明评论是谁写的     
